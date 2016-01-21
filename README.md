@@ -1,5 +1,7 @@
 # Ember-juju
-Ember Add-on to management nested sub-form components that are part of a larger form
+Make your Ember components work together!
+
+juju is an Ember Add-on to manage nested sub-form components that are part of a larger form.
 
 ## Installation
 - `git clone` this repository
